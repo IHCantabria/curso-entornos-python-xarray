@@ -8,6 +8,12 @@ config.json
 # C extensions
 *.so
 
+# Generated data
+*.csv
+*.html
+*.json
+*.nc
+
 # Distribution / packaging
 .Python
 build/
