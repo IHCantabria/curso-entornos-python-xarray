@@ -1,5 +1,5 @@
 # Course lides
-You cann  access to the course slides [here](https://curso-entornos-python-xarray.github.io/index#/)
+You can  access to the course slides [here](https://curso-entornos-python-xarray.github.io/index#/)
 
 # Launch notebook in binder (check)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aturlione/curso_opendap_xarray/HEAD?labpath=https%3A%2F%2Fgithub.com%2Faturlione%2Fcurso_opendap_xarray%2Fblob%2Fmaster%2Fopendap_xarray.ipynb)
