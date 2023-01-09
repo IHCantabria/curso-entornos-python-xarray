@@ -1,4 +1,4 @@
-# Course lides
+# Course Slides
 You can  access to the course slides [here](https://curso-entornos-python-xarray.github.io/index#/)
 
 # Launch notebook in binder (check)
