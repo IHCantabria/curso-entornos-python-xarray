@@ -4,7 +4,7 @@ You can  access to the course slides [here](https://curso-entornos-python-xarray
 # Launch notebook in binder (check)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aturlione/curso_opendap_xarray/HEAD?labpath=https%3A%2F%2Fgithub.com%2Faturlione%2Fcurso_opendap_xarray%2Fblob%2Fmaster%2Fopendap_xarray.ipynb)
 
-#Open in Google colab
+# Open in Google colab
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aturlione/-curso-entornos-python-xarray/blob/master/opendap_xarray.ipynb)
 
 # Local installation
